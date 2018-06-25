@@ -1,2 +1,2 @@
 # deep-rl
-Homework for the Berkeley Deep RL course
+Homework for the Berkeley Deep RL course.
